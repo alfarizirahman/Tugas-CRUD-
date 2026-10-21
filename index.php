@@ -47,7 +47,7 @@ include 'header.php';
 ?>
 <!-- 
 <div class="d-flex justify-content-between align-items-center mb-3">
-    <h4 class="mb-0">Daftar Sa ntri</h4>
+    <h4 class="mb-0">Daftar Santri</h4>
     <a href="tambah.php" class="btn btn-success">+ Tambah Santri</a>
 </div> -->
 
